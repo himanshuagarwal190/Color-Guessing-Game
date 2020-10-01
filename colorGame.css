@@ -1,0 +1,80 @@
+body {
+    background-color: #232323;
+    margin: 0;
+}
+
+#title {
+    font-size: 75px;
+}
+
+#container {
+    max-width: 600px;
+    margin: 10px auto;
+}
+
+.square {
+    background-color: #232323;
+    width: 30%;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    float: left;
+    border-radius: 15%;
+    transition: background 0.7s;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    background-color: navy;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 15px 0;
+    transition: background 0.7s;
+}
+
+#message {
+    color: black;
+    display: inline-block;
+    width: 24%;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: inherit;
+    color: black;
+}
+
+#noti-bar {
+    background-color: white;
+    text-align: center;
+    height: 1.8rem;
+}
+
+#hard {
+    background-color: navy;
+    color: white;
+    transition: all 0.5s;
+}
+
+p {
+    margin: 0;
+    line-height: 50px;
+    margin-top: 15px;
+}
+
+button:hover {
+    background-color: navy !important;
+    color: white !important;
+}
+
+button {
+    height: 1.8rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: inherit;
+    transition: all 0.5s;
+    border: none;
+    color: black;
+    background-color: white;
+    outline: none;
+}
