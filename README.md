@@ -2,4 +2,4 @@
 
 The Great RGB Color Guessing Game using HTML, CSS, JavaScript
 
-screenshot.PNG
+![Screenshot of Page](https://github.com/himanshuagarwal190/Color-Guessing-Game/blob/master/screenshot.PNG)
